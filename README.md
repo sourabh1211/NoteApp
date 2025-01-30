@@ -27,3 +27,4 @@ Made with ❤️ by **Sourabh Verma**
 ![Home Screen](https://github.com/sourabh1211/NotesApp/blob/5f27dddacb4a8beed08e1193263f48051f7b6388/Screenshot%202025-01-30%20190116.png)
 ![Single Notes Page](https://github.com/sourabh1211/NotesApp/blob/2ea71b26ae8b127b6051622a155023b7a43b6302/Screenshot%202025-01-30%20190153.png)
 ![Profile Section](https://github.com/sourabh1211/NotesApp/blob/2b3782dd21b59d610301f6f3a25cfc8099007af1/Screenshot%202025-01-30%20190222.png)
+![AddNote Page](https://github.com/sourabh1211/NotesApp/blob/0899322dd46e77d4057c7ec708d64d7f2437a5f2/Screenshot%202025-01-30%20190333.png)
