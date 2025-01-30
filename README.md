@@ -24,7 +24,7 @@ Made with ❤️ by **Sourabh Verma**
 # Website Images:-
 ![Login](https://github.com/sourabh1211/NotesApp/blob/7bbb672c2693b9bb8478a0f5c8235affbd843ed0/Screenshot%202025-01-30%20185821.png)
 ![SignUp](https://github.com/sourabh1211/NotesApp/blob/7c38afd7d2d0fb0865de98c6330fd35a0664ca30/Screenshot%202025-01-30%20185841.png)
-![Home Screen]([https://github.com/sourabh1211/NotesApp/blob/7c38afd7d2d0fb0865de98c6330fd35a0664ca30/Screenshot%202025-01-30%20185841.png])(https://github.com/sourabh1211/NotesApp/blob/95f728896e90b1465f5359ea84165e8238fe2ef5/Screenshot%202025-01-30%20190116.png))
+![Home Screen](https://github.com/sourabh1211/NotesApp/blob/7c38afd7d2d0fb0865de98c6330fd35a0664ca30/Screenshot%202025-01-30%20185841.png)(https://github.com/sourabh1211/NotesApp/blob/95f728896e90b1465f5359ea84165e8238fe2ef5/Screenshot%202025-01-30%20190116.png))
 ![SignUp](https://github.com/sourabh1211/NotesApp/blob/7c38afd7d2d0fb0865de98c6330fd35a0664ca30/Screenshot%202025-01-30%20185841.png)
 ![SignUp](https://github.com/sourabh1211/NotesApp/blob/7c38afd7d2d0fb0865de98c6330fd35a0664ca30/Screenshot%202025-01-30%20185841.png)
 ![SignUp](https://github.com/sourabh1211/NotesApp/blob/7c38afd7d2d0fb0865de98c6330fd35a0664ca30/Screenshot%202025-01-30%20185841.png)
