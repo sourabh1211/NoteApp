@@ -1,4 +1,4 @@
-![MERN Notes App](./assets/notes-app-preview.png)
+# MERN Stack Notes App 📝
 
 This is a full-stack Notes App built with the **MERN stack (MongoDB, Express.js, React, Node.js)**. It includes a rich text editor (Jodit Editor) for creating and editing notes with formatting options.
 
