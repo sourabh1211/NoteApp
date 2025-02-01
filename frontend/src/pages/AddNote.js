@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import CheckBox from '../tools/checkBox';
 import { json, useNavigate } from 'react-router-dom';
 
-const AddNote = () => {
+const AddNotes = () => {
   const editorRef = useRef(null);
 
   const [content, setContent] = useState('');
