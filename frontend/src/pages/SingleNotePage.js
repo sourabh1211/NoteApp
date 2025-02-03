@@ -13,7 +13,7 @@ const SingleNotePage = () => {
 
 
   function getNote() {
-    fetch("http://localhost:8000/getNote",
+    fetch("https://noteapp-mdt7.onrender.com/getNote",
       {
         mode: "cors",
         method: "POST",
@@ -35,7 +35,7 @@ const SingleNotePage = () => {
 
   const delteNote = (id) => {
     console.log("ID : ", id);
-    let res = fetch("http://localhost:8000/deleteNote", {
+    let res = fetch("https://noteapp-mdt7.onrender.com/deleteNote", {
       mode: "cors",
       method: "POST",
       headers: {

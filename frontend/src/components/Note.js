@@ -9,7 +9,7 @@ const Note = ({ note, height, index }) => {
 
   const delteNote = (id, noteID) => {
     console.log("ID : ", id, noteID);
-    let res = fetch("http://localhost:8000/deleteNote", {
+    let res = fetch("https://noteapp-mdt7.onrender.com/deleteNote", {
       mode: "cors",
       method: "POST",
       headers: {

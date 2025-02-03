@@ -8,7 +8,7 @@ const Navbar = () => {
   const [profilePic, setProfilePic] = useState(localStorage.getItem("profilePic") || "");
 
   function getUserDetails() {
-    fetch("http://localhost:8000/getUserDetails", {
+    fetch("https://noteapp-mdt7.onrender.com/getUserDetails", {
       mode: "cors",
       method: "POST",
       headers: {

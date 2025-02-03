@@ -15,7 +15,7 @@ const Profile = () => {
   const navigate = useNavigate();
 
   function getUserDetails() {
-    fetch("http://localhost:8000/getUserDetails", {
+    fetch("https://noteapp-mdt7.onrender.com/getUserDetails", {
       mode: "cors",
       method: "POST",
       headers: {
@@ -29,7 +29,7 @@ const Profile = () => {
   }
 
   function getNotes() {
-    fetch("http://localhost:8000/getNotes", {
+    fetch("https://noteapp-mdt7.onrender.com/getNotes", {
       mode: "cors",
       method: "POST",
       headers: {

@@ -11,7 +11,7 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    let res = await fetch("http://localhost:8000/login", {
+    let res = await fetch("https://noteapp-mdt7.onrender.com/login", {
       mode: "cors",
       method: "POST",
       headers: {

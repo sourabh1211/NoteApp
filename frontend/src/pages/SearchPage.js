@@ -33,7 +33,7 @@ const SearchPage = () => {
   }, [data, myParam]);
 
   const getNotes = () => {
-    fetch("http://localhost:8000/getNotes", {
+    fetch("https://noteapp-mdt7.onrender.com/getNotes", {
       mode: "cors",
       method: "POST",
       headers: {

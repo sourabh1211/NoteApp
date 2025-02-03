@@ -15,7 +15,7 @@ const Home = () => {
   const [userData, setUserData] = useState(null);
 
   let getNotes = () => {
-    let res = fetch("http://localhost:8000/getNotes", {
+    let res = fetch("https://noteapp-mdt7.onrender.com/getNotes", {
       mode: "cors",
       method: "POST",
       headers: {
@@ -36,7 +36,7 @@ const Home = () => {
   };
 
   function getUserDetails() {
-    fetch("http://localhost:8000/getUserDetails", {
+    fetch("https://noteapp-mdt7.onrender.com/getUserDetails", {
       mode: "cors",
       method: "POST",
       headers: {
