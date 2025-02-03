@@ -14,7 +14,11 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
-app.use(cors());
+app.use(cors({
+  origin: "https://note-28un1b1r2-sourabhs-projects-cc42ab20.vercel.app", // Allow frontend origin
+  methods: "GET,POST,PUT,DELETE",
+  allowedHeaders: "Content-Type,Authorization"
+}));
 
 app.use(logger('dev'));
 app.use(express.json());
